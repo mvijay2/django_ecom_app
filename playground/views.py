@@ -8,7 +8,7 @@ from django import forms
 from django.contrib.auth.models import User
 from .forms import SignUpForm
 from .models import Category
-
+#testing uncomment
 # Create your views here.
 #request -> response
 #request handler
